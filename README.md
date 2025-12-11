@@ -1,7 +1,7 @@
 # 🛒 Shopee App Customer Sentiment Analysis
 
 ### Project Background
-In the highly competitive e-commerce market, customer experience is the primary driver of success. [cite_start]Shopee receives thousands of app reviews daily, making manual analysis impossible.
+In the highly competitive e-commerce market, customer experience is the primary driver of success. Shopee receives thousands of app reviews daily, making manual analysis impossible.
 
 This project utilises **Natural Language Processing (NLP)** and **Unsupervised Machine Learning** to transform unstructured text data into actionable business strategies. Using the **CRISP-DM framework**, I analysed over 700,000 user reviews to identify key pain points and drivers of satisfaction.
 
