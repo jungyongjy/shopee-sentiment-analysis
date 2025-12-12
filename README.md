@@ -1,3 +1,5 @@
+**Project Status:** Completed (Dec 2025)
+
 # 🛒 Shopee App Customer Sentiment Analysis
 
 ### Project Background
